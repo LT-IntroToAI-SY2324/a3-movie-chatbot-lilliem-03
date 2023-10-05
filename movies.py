@@ -25,6 +25,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],  # actors/actresses
     ),
     (
+        "Mr. Peabody & Sherman",
+        "Rob Minkoff",
+        2014,
+        [
+            "Max Charles",
+            "Ty Burrell",
+            "Ariel Winter",
+            "Patrick Warburton"
+        ],
+    ),
+    (
         "the big easy",
         "jim mcbride",
         1987,
